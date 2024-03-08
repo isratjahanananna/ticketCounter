@@ -1,0 +1,51 @@
+
+#coupons{
+    position: relative;
+}
+
+.circle1 , .circle2{
+background: #fff;
+width: 50px;
+height: 50px;
+border-radius: 50%;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+}
+
+.circle1{
+    margin-top: -80px;
+}
+.circle2{
+    bottom: -25px;
+}
+
+#paribahan{
+    position: relative;
+}
+.circle11 {
+    background: #e0e6e0;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    }
+
+    .circle22{
+        background: #e0e6e0;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: absolute;
+    top: 70%;
+    transform: translateY(-10%);
+    }
+    
+    .circle11{
+        margin-top: -190px;
+    }
+    .circle22{
+        padding-bottom: 20px;
+    }
